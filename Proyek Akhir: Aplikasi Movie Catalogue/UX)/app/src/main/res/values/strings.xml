@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name" translatable="false">Movie Catalogue</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title" translatable="false">Movie Catalogue</string>
+    <string name="film" translatable="false">Movies</string>
+    <string name="date" translatable="false">Date</string>
+    <string name="popularity" translatable="false">Popularity</string>
+    <string name="overview" translatable="false">Overview</string>
+    <string name="tvShow" translatable="false">Tv Shows</string>
+    <string name="path_url_image" translatable="false">https://image.tmdb.org/t/p/w500/</string>
+    <string name="vote_count" translatable="false">Vote Count</string>
+    <string name="rating" translatable="false">Rating</string>
+    <string name="favorite" translatable="false">Favorite</string>
+    <string name="connection" translatable="false">Please check your internet connection.</string>
+    <string name="listMoviesTvShow" translatable="false">Please choose your favorite Movies or Tv Show</string>
+    <string name="selectMoviesTvShow" translatable="false">has been added to favorites.</string>
+    <string name="addMovie" translatable="false">The Movie has been added</string>
+    <string name="addTvShow" translatable="false">The Tv Show has been added</string>
+    <string name="title_alert_movie" translatable="false">Delete Movies from Favorite</string>
+    <string name="body_alert_movie" translatable="false">Are you sure you to delete this movie from your favorite list. ?</string>
+    <string name="toast_movie" translatable="false">The movie has been deleted from your favorite list</string>
+    <string name="yes" translatable="false">Yes</string>
+    <string name="no" translatable="false">No</string>
+    <string name="title_alert_tvShow" translatable="false">Delete Tv Show from Favorite</string>
+    <string name="toast_tvShow" translatable="false">The Tv Show has been deleted from your favorite list</string>
+    <string name="body_alert_tvShow" translatable="false">Are you sure you to delete this Tv Show from your favorite list. ?</string>
+    <string name="changeLanguange" translatable="false">languange</string>
+    <string name="daily_reminder" translatable="false">daily_reminder</string>
+    <string name="release_reminder" translatable="false">release_reminder</string>
+    <string name="catalogue_movie_favorite_film" translatable="false">Catalogue Favorite Movie</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Favorite Film</string>
+    <string name="path_url_image" translatable="false">https://image.tmdb.org/t/p/w500/</string>
+    <string name="rating" translatable="false">Rating</string>
+    <string name="film">Film</string>
+    <string name="date">Date</string>
+    <string name="overview">Overview</string>
+    <string name="vote_count">Popularity</string>
+</resources>
