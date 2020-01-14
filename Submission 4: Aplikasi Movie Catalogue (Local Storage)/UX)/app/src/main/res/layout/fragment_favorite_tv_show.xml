@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.FavoriteTvShowFragment">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/tvShowFavoriteRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:listitem="@layout/item_favorite_row_tvshow"/>
+
+    <FrameLayout
+        android:id="@+id/framelayout_tvShow_favorite"
+        android:alpha="0.4"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/darker_gray">
+
+        <ProgressBar
+            android:id="@+id/progressBar_tvShow_favorite"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:progressDrawable="@drawable/indicator"
+            android:indeterminate="true"
+            tools:ignore="MissingConstraints" />
+    </FrameLayout>
+
+</FrameLayout>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Katalog Film</string>
+    <string name="date" translatable="false">Tanggal</string>
+    <string name="film" translatable="false">Film</string>
+    <string name="overview" translatable="false">Gambaran Ikhtisar</string>
+    <string name="popularity" translatable="false">Popularitas</string>
+    <string name="title" translatable="false">Katalog Film</string>
+    <string name="tvShow" translatable="false">Acara Tv</string>
+    <string name="vote_count" translatable="false">Perhitungan Suara</string>
+    <string name="rating" translatable="false">Penilaian</string>
+    <string name="connection" translatable="false">" Silakan periksa koneksi internet Anda."</string>
+    <string name="favorite">" Favorit"</string>
+    <string name="listMoviesTvShow">" Silakan pilih Film atau Acara TV favorit Anda"</string>
+    <string name="selectMoviesTvShow">" telah ditambahkan ke favorit."</string>
+    <string name="addMovie" translatable="false">" Film telah ditambahkan"</string>
+    <string name="addTvShow" translatable="false">" Acara TV telah ditambahkan"</string>
+    <string name="body_alert_movie" translatable="false">Apakah Anda yakin untuk menghapus film ini dari daftar favorit Anda. ?</string>
+    <string name="body_alert_tvShow">" Apakah Anda yakin untuk menghapus Acara TV ini dari daftar favorit Anda. ?"</string>
+    <string name="no" translatable="false">Tidak</string>
+    <string name="yes" translatable="false">Iya</string>
+    <string name="toast_tvShow" translatable="false">" Acara TV telah dihapus dari daftar favorit Anda"</string>
+    <string name="toast_movie" translatable="false">" Film telah dihapus dari daftar favorit Anda"</string>
+    <string name="title_alert_tvShow" translatable="false">Hapus Acara TV dari Favorit</string>
+    <string name="title_alert_movie" translatable="false">"Hapus Film dari Favorit"</string>
+</resources>
