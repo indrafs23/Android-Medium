@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name" translatable="false">Movie Catalogue</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="title" translatable="false">Movie Catalogue</string>
+    <string name="film" translatable="false">Movies</string>
+    <string name="date" translatable="false">Date</string>
+    <string name="popularity" translatable="false">Popularity</string>
+    <string name="overview" translatable="false">Overview</string>
+    <string name="director" translatable="false">Director</string>
+    <string name="creator" translatable="false">Creator</string>
+    <string name="tvShow" translatable="false">Tv Shows</string>
+    <string name="settings" translatable="false">Settings</string>
+    <string name="settings_languange" translatable="false">Language Setting</string>
+    <string name="english" translatable="false">English</string>
+    <string name="bahasa" translatable="false">Bahasa</string>
+    <string name="path_url_image">https://image.tmdb.org/t/p/w500/</string>
+    <string name="vote_count" translatable="false">Vote Count</string>
+    <string name="rating" translatable="false">Rating</string>
+
+</resources>
