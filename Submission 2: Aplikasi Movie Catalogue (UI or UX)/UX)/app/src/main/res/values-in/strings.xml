@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bahasa" translatable="false">Bahasa</string>
+    <string name="app_name" translatable="false">Katalog Film</string>
+    <string name="creator" translatable="false">Kreator</string>
+    <string name="date" translatable="false">Tanggal</string>
+    <string name="director" translatable="false">Direktur</string>
+    <string name="english" translatable="false">English</string>
+    <string name="film" translatable="false">Film</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="overview" translatable="false">Gambaran Ikhtisar</string>
+    <string name="popularity" translatable="false">Popularitas</string>
+    <string name="settings" translatable="false">Pengaturan</string>
+    <string name="settings_languange" translatable="false">Pengaturan Bahasa</string>
+    <string name="title" translatable="false">Katalog Film</string>
+    <string name="tvShow" translatable="false">Acara Tv</string>
+</resources>

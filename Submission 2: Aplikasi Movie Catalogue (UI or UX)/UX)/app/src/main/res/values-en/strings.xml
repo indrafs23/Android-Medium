@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="tvShow" translatable="false">Tv Shows</string>
+    <string name="settings" translatable="false">Settings</string>
+    <string name="popularity" translatable="false">Popularity</string>
+    <string name="overview" translatable="false">Overview</string>
+    <string name="film" translatable="false">Movies</string>
+    <string name="title" translatable="false">Movie Catalogue</string>
+    <string name="settings_languange" translatable="false">Language Setting</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="english" translatable="false">English</string>
+    <string name="director" translatable="false">Director</string>
+    <string name="creator" translatable="false">Creator</string>
+    <string name="date" translatable="false">Date</string>
+    <string name="bahasa" translatable="false">" Indonesian"</string>
+</resources>
